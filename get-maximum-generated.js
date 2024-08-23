@@ -1,4 +1,4 @@
-// Get Maximum Generated
+// Get Maximum Generated in a generated array
 
 // Time Complexity - O(n)
 
